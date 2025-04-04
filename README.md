@@ -1,6 +1,8 @@
 Hi 👋 My name is Olivia Sharpston
 =================================
 I have been at the University of North Alabama for three years now! My love for computing stemmed in high school. While I was in high school, a computer science class got introduced and became available. I had started this class in my 2019-2020 school year. When COVID had happened, I transitioned to online. Nonetheless, I came out with highest average in that class. That class gave me the inspiration to become a computing major. To stray away, here is a photo of my pup, Maple! She is a 4.5 year old boxer. I've had her since November 2020!
+
+
 <img src="maple.jpg" alt="Maple🐶">
 * 🌍  I'm based in Florence, AL
 * ✉️  You can contact me at [oksharpston617@gmail.com](mailto:oksharpston617@gmail.com)
