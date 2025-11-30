@@ -6,7 +6,7 @@ I have been at the University of North Alabama for three years now! My love for 
 <img src="maple.jpg" alt="Maple🐶">
 * 🌍  I'm based in Florence, AL
 * ✉️  You can contact me at [oksharpston617@gmail.com](mailto:oksharpston617@gmail.com)
-* 🚀  I'm currently working on [Dev Easy Group Project](http://github.com/Olivia-Sharpston/dev-easy)
+* 🚀  I'm currently working on an [App Group Project](https://github.com/ehb2004/bookworms)
 * 🧠  I'm learning many skills to be able to achieve my undergraduate degree in Information Technology. Furthermore, I am gaining the tools for my concentration of HCI/UX.
 * ⚡  Fun Fact: I used to live in Colorado!
 
